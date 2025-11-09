@@ -18,13 +18,13 @@ This project explores **Job Market Trends for 2024** using live job data to anal
 
 ## 🚀 Key Insights
 
-Data Engineer, Data Analyst, and Data Scientist are among the most in-demand roles in 2024.
+- Data Engineer, Data Analyst, and Data Scientist are among the most in-demand roles in 2024.
 
-Senior Data Scientist has the highest median yearly salary.
+- Senior Data Scientist has the highest median yearly salary.
 
-Hiring trends show fluctuations across months, indicating seasonal recruitment patterns.
+- Hiring trends show fluctuations across months, indicating seasonal recruitment patterns.
 
-Clear visualization of hourly vs yearly compensation helps compare job values effectively.
+- Clear visualization of hourly vs yearly compensation helps compare job values effectively.
 
 ## 🧠 Skills Demonstrated
 
@@ -41,7 +41,7 @@ Clear visualization of hourly vs yearly compensation helps compare job values ef
 ## 📈 Dashboard Features
 
 ### Page 1: Overview Dashboard
-![Dashboard Overview](/Images/picture1.png))
+![Dashboard Overview](/Images/picture1.png)
 
 - KPIs for Job Count, Rating, Yearly & Hourly Salary
 
